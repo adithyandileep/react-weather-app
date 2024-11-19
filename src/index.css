@@ -6,3 +6,9 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
+
+.app {
+  display: grid;
+  min-width: 100vh;
+  margin: 0;
+}
