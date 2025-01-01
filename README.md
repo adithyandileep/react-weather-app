@@ -17,7 +17,7 @@ Before running this project, ensure you have the following installed:
 ## Installation 🚀
 ### Clone the repository
 ```bash
-git clone https://github.com/your-username/react-weather-app.git
+git clone https://github.com/adithyandileep/react-weather-app.git
 cd react-weather-app
 ```
 
@@ -51,21 +51,6 @@ npm run build
 ### Preview the production build
 ```bash
 npm run preview
-```
-
-## Project Structure 🗂️
-```plaintext
-react-weather-app/
-├── public/          # Static files
-├── src/             # Source code
-│   ├── components/  # Reusable React components
-│   ├── assets/      # Images, icons, etc.
-│   ├── App.jsx      # Main application file
-│   └── index.jsx    # Entry point
-├── .env             # Environment variables
-├── package.json     # Project metadata and scripts
-├── vite.config.js   # Vite configuration
-└── README.md        # Project documentation
 ```
 
 ## Technologies Used 🛠️
