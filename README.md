@@ -76,6 +76,3 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 Created by **Adithyan Dileep**. Feel free to connect with me on [GitHub](https://github.com/adithyandileep) or [LinkedIn](https://linkedin.com/in/Adithyan-Dileep).
 
 ---
-
-Enjoy exploring the weather with **React Weather App**! 🌍
-```
